@@ -17,3 +17,5 @@
 Since this project is still under development, more features and improvements will be added over time. Contributions and feedback are welcome! 🎉  
 
 📌 **Note:** This is a work in progress and not a fully functional e-commerce platform yet.
+
+🚀 Live Demo: (https://bahi-electronics.netlify.app/)
